@@ -25,7 +25,8 @@ npm run start
 * Firebase
 
 ## Preview
-![alt text](https://github.com/sboucher2011/REACT-Memory-Game/blob/main/public/img/readme.jpg)
+![alt text](https://github.com/sboucher2011/REACT-Team-Command/blob/main/public/img/readme1.jpg)
+![alt text](https://github.com/sboucher2011/REACT-Team-Command/blob/main/public/img/readme2.jpg)
 
 ## Deployed
 https://teamproject-eab77.web.app/
